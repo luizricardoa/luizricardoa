@@ -1,7 +1,7 @@
 # 💫 About Me:
 <strong>Português</strong>: Procurando a primeira oportunidade no Mercado de Trabalho na área de programação para poder demonstrar o amor que criei por essa nova área.
 
-<strong>English</strong>:Looking for the first job market opportunity in the programming area to be able to demonstrate the love I created for this new area.
+<strong>English</strong>: Looking for the first job market opportunity in the programming area to be able to demonstrate the love I created for this new area.
 
 
 ## 🌐 Socials:
